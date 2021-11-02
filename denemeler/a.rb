@@ -1,1 +1,1 @@
-puts 'a b c '
+puts 'hello world'
